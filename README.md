@@ -1,2 +1,2 @@
 # ultimate-werewolf
-help for the moderator
+Enter the number of players.
